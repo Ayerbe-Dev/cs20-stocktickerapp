@@ -1,0 +1,15 @@
+{
+  "name": "stocktickerapp",
+  "version": "1.0.0",
+  "description": "Stock Ticker App",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ayerbe-Dev/cs20-stocktickerapp"
+  },
+  "author": "Henry Nissen",
+  "license": "ISC"
+}
